@@ -6,4 +6,4 @@ source scripts/helpers.sh
 pip_required
 
 echo "Installing Gradio..."
-pip install -e --user .
+pip install --user -e .
